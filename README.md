@@ -1,0 +1,2 @@
+# MVCADO.NET.Joke
+MVC使用ADO.NET连接SQL数据库
